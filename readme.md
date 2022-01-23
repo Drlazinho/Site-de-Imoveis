@@ -8,6 +8,7 @@ Site desenvolvido com Bootstrap 5
 - [x] Desenvolvido no conceito de Mobile First - Reponsividade.
 - [] Modo Dark
 - [] Revisão!
-
+<hr>
 ## Resultado (ainda em desenvolvimento)
+Link: https://drlazinho.github.io/Site-de-Imoveis/
 <img src="./img/resultado.png" style="width: 50%"/>
