@@ -10,8 +10,8 @@ Site desenvolvido com Bootstrap 5
 
 <hr>
 
-## Resultado (ainda em desenvolvimento)
+## Resultado 
 
-Link: https://drlazinho.github.io/Site-de-Imoveis/
+Novo Link: https://dazzling-liskov-a5336a.netlify.app/
 
 <img src="./img/resultado.png" style="width: 50%"/>
