@@ -6,7 +6,8 @@ Site desenvolvido com Bootstrap 5
 - [x] Seção de detalhes
 - [x] Footer
 - [x] Desenvolvido no conceito de Mobile First - Reponsividade.
-- [ ] 
+
+
 <hr>
 
 ## Resultado (ainda em desenvolvimento)
